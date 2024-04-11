@@ -6,4 +6,5 @@ class GlobalColors {
   static HexColor whiteColor = HexColor('#ffffff');
   static HexColor blackColor = HexColor('#020e0d');
   static HexColor greenColor = HexColor('#25D366');
+  static HexColor mutedColor = HexColor('#b0afae');
 }
