@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:whatsapp_clone/components/colors.dart';
 
-Widget myAppBar() {
+Widget buildAppBar() {
   return AppBar(
     title: const Text("WhatsApp"),
     actions: [
