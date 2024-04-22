@@ -1,7 +1,4 @@
 # Whatsapp Clone
 
-A new Flutter project.
+A new replica Whatapp Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
