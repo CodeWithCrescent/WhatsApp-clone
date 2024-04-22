@@ -6,7 +6,7 @@ class Calls extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const Center(
-      child: Text("Calls are to appear here."),
+      child: Text("Calls Screen are to appear here."),
     );
   }
 }
