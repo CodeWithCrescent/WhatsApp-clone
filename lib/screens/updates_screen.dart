@@ -6,7 +6,7 @@ class Updates extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const Center(
-      child: Text("Updates are to appear here."),
+      child: Text("Updates Screen is to appear here."),
     );
   }
 }
